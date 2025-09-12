@@ -1,2 +1,4 @@
 # jó sok házi feladat kell nekünk!!!!!
 # kérünk egy ábrát, ami otthon megoldhatunk!!
+
+# ajjaj, itt problémák lesznek. 
