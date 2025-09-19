@@ -6,3 +6,4 @@ b = 66
 print(b)
 print("12 + 66 =",a + b)
 c = 9
+print("66 - 9 =",b - c)
