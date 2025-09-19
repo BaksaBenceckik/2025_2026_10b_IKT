@@ -5,3 +5,4 @@ print(a)
 b = 66
 print(b)
 print("12 + 66 =",a + b)
+c = 99
